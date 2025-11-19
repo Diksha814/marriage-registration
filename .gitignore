@@ -1,0 +1,25 @@
+# Ignore Maven build output
+/target/
+
+# Ignore IDE files
+.idea/
+*.iml
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and temp files
+*.log
+*.tmp
+
+# Ignore compiled class files
+*.class
+
+# Ignore sensitive files (add your own if needed)
+# secrets.properties
+# .env
+
+# Ignore other common files
+*.swp
